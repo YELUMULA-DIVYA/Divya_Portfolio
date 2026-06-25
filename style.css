@@ -174,8 +174,9 @@ transform:translateY(-5px);
 }
 
 section h2{
-color:#8B5E3C;
-font-size:32px;
+    color:#8B5E3C;
+    font-size:32px;
+    margin-bottom:35px;
 }
 
 .skill-container{
@@ -316,3 +317,4 @@ left:var(--x);
 top:var(--y);
 z-index:-1;
 }
+
