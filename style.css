@@ -296,12 +296,6 @@ opacity:1;
 transform:translateY(0);
 }
 
-footer{
-text-align:center;
-padding:25px;
-background:#8B5E3C;
-color:white;
-}
 
 body::before{
 content:"";
